@@ -1,0 +1,13 @@
+com\penghaisoft\MachineLearningLibrary\analysis\Univariate.class
+com\penghaisoft\MachineLearningLibrary\regression\MultipleLinearRegression.class
+com\penghaisoft\MachineLearningLibrary\regression\PolynomialRegression.class
+com\penghaisoft\MachineLearningLibrary\util\ClassMap.class
+com\penghaisoft\MachineLearningLibrary\util\DataSelect.class
+com\penghaisoft\MachineLearningLibrary\util\LabelMap.class
+com\penghaisoft\MachineLearningLibrary\preproccess\MissingValue.class
+com\penghaisoft\MachineLearningLibrary\classify\KNN.class
+com\penghaisoft\MachineLearningLibrary\classify\LogisticRegression.class
+com\penghaisoft\MachineLearningLibrary\regression\ExponentialRegression.class
+com\penghaisoft\MachineLearningLibrary\classify\MulClassLogisticRegression.class
+com\penghaisoft\MachineLearningLibrary\clustering\KMeans.class
+com\penghaisoft\MachineLearningLibrary\util\DataConverter.class
